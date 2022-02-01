@@ -22,7 +22,7 @@
 #include "interrupt.h"
 #include "SysClock.h"
 #include "LCD.h"
-#include "Us.h"
+#include "Ultrasuoni.h"
 
 //=== MAIN PROGRAM =========================================================================
 int main(){
